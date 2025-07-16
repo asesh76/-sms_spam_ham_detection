@@ -1,3 +1,5 @@
+SMS Spam Detection using Machine Learning
+
 Description:
 This project focuses on building a machine learning model to classify SMS messages as Spam or Ham (Not Spam). It involves preprocessing raw text data, extracting features using NLP techniques, and training multiple models to evaluate performance.
 
